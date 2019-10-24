@@ -12,6 +12,16 @@ export default class Home extends Component {
                 <div className="plain-text" >
                     <textarea placeholder="Text to encrypt"/>
                 </div>
+                <div className="key-input">
+                    <input type="number" placeholder="Key"/>
+                </div>
+                <div>
+                    <button type="submit">Encrypt</button>
+                    <button type="submit">Decrypt</button>
+                </div>
+                <div className="text-box">
+                    
+                </div>
             </div>
         )
     }

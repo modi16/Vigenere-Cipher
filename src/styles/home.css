@@ -16,3 +16,18 @@ textarea{
 .key-input{
     text-align: center;
 }
+.actions{
+    text-align:center;
+    margin-top:15px;
+}
+.encrypt{
+    margin-right:15px;
+}
+.text-box{
+    width: 300px;
+    height: 150px;
+    border:1px solid;
+    text-align:center;
+    margin: 0 auto;
+    margin-top:15px;
+}
